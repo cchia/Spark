@@ -1,0 +1,176 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/ChengIng/Documents/git/Spark/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+2 items
+0 -> -source
+1 -> 1.7
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+6 items
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/BasicExample.scala -> /Users/ChengIng/Documents/git/Spark/target/scala-2.11/classes/examples/BasicExample$$anonfun$main$1.class
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/BasicExample.scala -> /Users/ChengIng/Documents/git/Spark/target/scala-2.11/classes/examples/BasicExample$.class
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/BasicExample.scala -> /Users/ChengIng/Documents/git/Spark/target/scala-2.11/classes/examples/BasicExample.class
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/LoggingExample.scala -> /Users/ChengIng/Documents/git/Spark/target/scala-2.11/classes/examples/LoggingExample$$anonfun$main$1.class
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/LoggingExample.scala -> /Users/ChengIng/Documents/git/Spark/target/scala-2.11/classes/examples/LoggingExample$.class
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/LoggingExample.scala -> /Users/ChengIng/Documents/git/Spark/target/scala-2.11/classes/examples/LoggingExample.class
+binary dependencies:
+7 items
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/BasicExample.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/jre/lib/rt.jar
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/BasicExample.scala -> /Users/ChengIng/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-1.6.2.jar
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/BasicExample.scala -> /Users/ChengIng/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/LoggingExample.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/jre/lib/rt.jar
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/LoggingExample.scala -> /Users/ChengIng/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-1.6.2.jar
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/LoggingExample.scala -> /Users/ChengIng/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/LoggingExample.scala -> /Users/ChengIng/.ivy2/cache/org.slf4j/slf4j-api/jars/slf4j-api-1.7.21.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+6 items
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/BasicExample.scala -> examples.BasicExample
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/BasicExample.scala -> examples.BasicExample$
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/BasicExample.scala -> examples.BasicExample$$anonfun$main$1
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/LoggingExample.scala -> examples.LoggingExample
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/LoggingExample.scala -> examples.LoggingExample$
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/LoggingExample.scala -> examples.LoggingExample$$anonfun$main$1
+used names:
+70 items
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/BasicExample.scala -> +
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/BasicExample.scala -> <init>
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/BasicExample.scala -> AnyRef
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/BasicExample.scala -> Array
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/BasicExample.scala -> BasicExample
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/BasicExample.scala -> ClassTag
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/BasicExample.scala -> Int
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/BasicExample.scala -> Predef
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/BasicExample.scala -> Seq
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/BasicExample.scala -> SparkConf
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/BasicExample.scala -> SparkContext
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/BasicExample.scala -> String
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/BasicExample.scala -> Unit
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/BasicExample.scala -> a
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/BasicExample.scala -> apache
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/BasicExample.scala -> apply
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/BasicExample.scala -> b
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/BasicExample.scala -> collection
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/BasicExample.scala -> conf
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/BasicExample.scala -> examples
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/BasicExample.scala -> materializeClassTag
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/BasicExample.scala -> num
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/BasicExample.scala -> org
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/BasicExample.scala -> package
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/BasicExample.scala -> parallelize
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/BasicExample.scala -> println
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/BasicExample.scala -> reduce
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/BasicExample.scala -> sc
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/BasicExample.scala -> scala
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/BasicExample.scala -> spark
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/LoggingExample.scala -> +
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/LoggingExample.scala -> <init>
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/LoggingExample.scala -> AnyRef
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/LoggingExample.scala -> Array
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/LoggingExample.scala -> ClassTag
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/LoggingExample.scala -> Int
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/LoggingExample.scala -> LoggerFactory
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/LoggingExample.scala -> LoggingExample
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/LoggingExample.scala -> Predef
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/LoggingExample.scala -> Seq
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/LoggingExample.scala -> SparkConf
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/LoggingExample.scala -> SparkContext
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/LoggingExample.scala -> String
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/LoggingExample.scala -> Unit
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/LoggingExample.scala -> a
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/LoggingExample.scala -> apache
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/LoggingExample.scala -> apply
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/LoggingExample.scala -> b
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/LoggingExample.scala -> collection
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/LoggingExample.scala -> conf
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/LoggingExample.scala -> debug
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/LoggingExample.scala -> error
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/LoggingExample.scala -> examples
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/LoggingExample.scala -> getClass
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/LoggingExample.scala -> getLogger
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/LoggingExample.scala -> getName
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/LoggingExample.scala -> info
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/LoggingExample.scala -> log
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/LoggingExample.scala -> materializeClassTag
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/LoggingExample.scala -> num
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/LoggingExample.scala -> org
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/LoggingExample.scala -> package
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/LoggingExample.scala -> parallelize
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/LoggingExample.scala -> println
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/LoggingExample.scala -> reduce
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/LoggingExample.scala -> sc
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/LoggingExample.scala -> scala
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/LoggingExample.scala -> setLogLevel
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/LoggingExample.scala -> slf4j
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/LoggingExample.scala -> spark
+product stamps:
+6 items
+/Users/ChengIng/Documents/git/Spark/target/scala-2.11/classes/examples/BasicExample$$anonfun$main$1.class -> lastModified(1469211909000)
+/Users/ChengIng/Documents/git/Spark/target/scala-2.11/classes/examples/BasicExample$.class -> lastModified(1469211909000)
+/Users/ChengIng/Documents/git/Spark/target/scala-2.11/classes/examples/BasicExample.class -> lastModified(1469211909000)
+/Users/ChengIng/Documents/git/Spark/target/scala-2.11/classes/examples/LoggingExample$$anonfun$main$1.class -> lastModified(1469211909000)
+/Users/ChengIng/Documents/git/Spark/target/scala-2.11/classes/examples/LoggingExample$.class -> lastModified(1469211909000)
+/Users/ChengIng/Documents/git/Spark/target/scala-2.11/classes/examples/LoggingExample.class -> lastModified(1469211909000)
+source stamps:
+2 items
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/BasicExample.scala -> hash(0c77a90ba405bf3a5445a1456d6e3e37afc8a3dc)
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/LoggingExample.scala -> hash(f93e18e388fbcda4f6522b3b4b8ce461a9640485)
+binary stamps:
+4 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1459485740000)
+/Users/ChengIng/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-1.6.2.jar -> lastModified(1466377298000)
+/Users/ChengIng/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> lastModified(1457496963000)
+/Users/ChengIng/.ivy2/cache/org.slf4j/slf4j-api/jars/slf4j-api-1.7.21.jar -> lastModified(1459796882000)
+class names:
+4 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/ChengIng/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-1.6.2.jar -> org.apache.spark.SparkConf
+/Users/ChengIng/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> scala.Unit
+/Users/ChengIng/.ivy2/cache/org.slf4j/slf4j-api/jars/slf4j-api-1.7.21.jar -> org.slf4j.Logger
+internal apis:
+2 items
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/BasicExample.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCOmvtGAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cGB5Bq90AAZub3RpZnlzcQB+AAxm6O7XdAAEd2FpdHNxAH4ADAk64Ul0AA0kYXNJbnN0YW5jZU9mc3EAfgAM4uBERXQABmVxdWFsc3NxAH4ADC64U8J0AAxhc0luc3RhbmNlT2ZzcQB+AAz7CBpFdAAMc3luY2hyb25pemVkc3EAfgAMltNZ9HQADSRpc0luc3RhbmNlT2ZzcQB+AAy52PULdAAEbWFpbnNxAH4ADC7r54J0AAlub3RpZnlBbGxzcQB+AAzsff9BdAAMaXNJbnN0YW5jZU9mc3EAfgAMeue88XQAAj09c3EAfgAMG8TG43QABWNsb25lc3EAfgAMg3OhO3QADEJhc2ljRXhhbXBsZXNxAH4ADDbbIF90AAh0b1N0cmluZ3NxAH4ADDCNvjt0AAIhPXNxAH4ADINyasd0AAhnZXRDbGFzc3NxAH4ADIQ/6/Z0AAJuZXNxAH4ADOOoY8J0AAJlcXNxAH4ADMDXvrB0AAIjI3NxAH4ADLF/IHZ0AAhmaW5hbGl6ZXNxAH4ADEfyZZ90AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABVleGFtcGxlcy5CYXNpY0V4YW1wbGV1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgBaeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBZAHBzcQB+AF5zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQUwACWluaGVyaXRlZHEAfgBBTAAHcGFyZW50c3EAfgBBeHEAfgBic3EAfgBZAHBzcQB+AF51cQB+ADwAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AEJxAH4AS3VxAH4ATAAAAABzcQB+AE4AcQB+AB11cQB+AFEAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AYXQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGFzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AH91cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgBseHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBUdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgBzWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBhc3EAfgBydAAFQXJyYXlxAH4AeHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgBydAAGU3RyaW5nc3EAfgB2c3EAfgB5dXEAfgB8AAAAA3NxAH4AfnQABGphdmFzcQB+AH50AARsYW5ncQB+AINzcQB+AFkAcHNxAH4AXnVxAH4APAAAAABzcQB+AFkAcHNxAH4AXnVxAH4AlwAAAAJzcQB+AHJ0AAZPYmplY3RxAH4Am3NxAH4AcnQAA0FueXEAfgB4dXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAIZXhhbXBsZXNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVYT2o90dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAPS9Vc2Vycy9DaGVuZ0luZy9Eb2N1bWVudHMvZ2l0L1NwYXJrL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQMd6kLpAW/OlRFoUVtbj43r8ij3A==
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/LoggingExample.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHC/EKrbAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cAQZXRl0AAZub3RpZnlzcQB+AAyIunqCdAAEd2FpdHNxAH4ADK3xCzx0AA0kYXNJbnN0YW5jZU9mc3EAfgAMleRH3HQABmVxdWFsc3NxAH4ADFrU1PN0AAxhc0luc3RhbmNlT2ZzcQB+AAze9/cddAAMc3luY2hyb25pemVkc3EAfgAMCisCMnQADSRpc0luc3RhbmNlT2ZzcQB+AAzcKPqHdAAEbWFpbnNxAH4ADPqp5Xx0AAlub3RpZnlBbGxzcQB+AAxpjT5ddAAMaXNJbnN0YW5jZU9mc3EAfgAMfFMNwHQAAj09c3EAfgAMnAeNx3QADkxvZ2dpbmdFeGFtcGxlc3EAfgAMrFYsGnQABWNsb25lc3EAfgAM6mxSvnQACHRvU3RyaW5nc3EAfgAM1fT6T3QAAiE9c3EAfgAM4/WdjHQACGdldENsYXNzc3EAfgAMKvf+RXQAAm5lc3EAfgAMI6srbHQAAmVxc3EAfgAM9X69I3QAA2xvZ3NxAH4ADHYUXBl0AAIjI3NxAH4ADKp5lUB0AAhmaW5hbGl6ZXNxAH4ADMnxpRt0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEN4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABdleGFtcGxlcy5Mb2dnaW5nRXhhbXBsZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AFx4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AFsAcHNxAH4AYHNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBDTAAJaW5oZXJpdGVkcQB+AENMAAdwYXJlbnRzcQB+AEN4cQB+AGRzcQB+AFsAcHNxAH4AYHVxAH4APgAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4ARHEAfgBNdXEAfgBOAAAAAHNxAH4AUABxAH4AHXVxAH4AUwAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBjdAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AY3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AgXVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AG54cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFZ0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AHVbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AGNzcQB+AHR0AAVBcnJheXEAfgB6dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AHR0AAZTdHJpbmdzcQB+AHhzcQB+AHt1cQB+AH4AAAADc3EAfgCAdAAEamF2YXNxAH4AgHQABGxhbmdxAH4AhXNxAH4AWwBwc3EAfgBgdXEAfgA+AAAAAHNxAH4AWwBwc3EAfgBgdXEAfgCZAAAAAnNxAH4AdHQABk9iamVjdHEAfgCdc3EAfgB0dAADQW55cQB+AHp1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAhleGFtcGxlc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVhPaj3R1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA9L1VzZXJzL0NoZW5nSW5nL0RvY3VtZW50cy9naXQvU3BhcmsvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFPk+GOOI+82k9lIrO0uM5GGpZASF
+external apis:
+0 items
+source infos:
+2 items
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/BasicExample.scala -> 
+AAAAAAAAAAA=
+/Users/ChengIng/Documents/git/Spark/src/main/scala/examples/LoggingExample.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVhPaj3R1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPS9Vc2Vycy9DaGVuZ0luZy9Eb2N1bWVudHMvZ2l0L1NwYXJrL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv

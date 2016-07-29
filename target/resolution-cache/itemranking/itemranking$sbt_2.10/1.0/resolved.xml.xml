@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ivy-module version="2.0" xmlns:e="http://ant.apache.org/ivy/extra">
+	<info organisation="itemranking"
+		module="itemranking$sbt_2.10"
+		revision="1.0"
+		status="integration"
+		publication="20160728224840"
+	/>
+	<configurations>
+		<conf name="default" visibility="public"/>
+	</configurations>
+	<publications>
+	</publications>
+	<dependencies>
+		<dependency org="org.scala-sbt" name="sbt" rev="0.13.8" conf="default->default(compile)"/>
+		<dependency org="com.coupang.pz" name="sbt-oozie" rev="0.0.4-mr1-cdh4.6.0" conf="default->default(compile)" scalaVersion="2.10" sbtVersion="0.13"/>
+		<dependency org="org.apache.oozie" name="oozie-client" rev="3.3.2-cdh4.6.0" conf="default->default(compile)"/>
+		<dependency org="com.googlecode.json-simple" name="json-simple" rev="1.1" conf="default->default(compile)"/>
+		<dependency org="commons-cli" name="commons-cli" rev="1.2" conf="default->default(compile)"/>
+		<dependency org="org.apache.hadoop" name="hadoop-auth" rev="2.0.0-cdh4.6.0" conf="default->default(compile)"/>
+		<dependency org="commons-codec" name="commons-codec" rev="1.4" conf="default->default(compile)"/>
+		<dependency org="org.slf4j" name="slf4j-simple" rev="1.6.1" conf="default->default(compile)"/>
+		<dependency org="xerces" name="xercesImpl" rev="2.10.0" conf="default->default(compile)"/>
+		<dependency org="xml-apis" name="xml-apis" rev="1.4.01" conf="default->default(compile)"/>
+		<dependency org="org.eclipse.jgit" name="org.eclipse.jgit" rev="3.7.0.201502260915-r" conf="default->default(compile)"/>
+		<dependency org="com.jcraft" name="jsch" rev="0.1.50" conf="default->default(compile)"/>
+		<dependency org="com.googlecode.javaewah" name="JavaEWAH" rev="0.7.9" conf="default->default(compile)"/>
+		<dependency org="org.apache.httpcomponents" name="httpclient" rev="4.1.3" conf="default->default(compile)"/>
+		<dependency org="org.apache.httpcomponents" name="httpcore" rev="4.1.4" conf="default->default(compile)"/>
+		<dependency org="commons-logging" name="commons-logging" rev="1.1.1" conf="default->default(compile)"/>
+		<dependency org="org.slf4j" name="slf4j-api" rev="1.7.2" conf="default->default(compile)"/>
+		<dependency org="com.typesafe.sbteclipse" name="sbteclipse-plugin" rev="4.0.0" conf="default->default(compile)" scalaVersion="2.10" sbtVersion="0.13"/>
+		<dependency org="org.scalaz" name="scalaz-core_2.10" rev="7.1.0" conf="default->default(compile)"/>
+		<dependency org="org.scala-lang" name="scala-library" rev="2.10.4" conf="default->default(compile)" info.apiURL="http://www.scala-lang.org/api/2.10.4/"/>
+		<dependency org="org.scalaz" name="scalaz-effect_2.10" rev="7.1.0" conf="default->default(compile)"/>
+		<dependency org="com.eed3si9n" name="sbt-assembly" rev="0.12.0" conf="default->default(compile)" scalaVersion="2.10" sbtVersion="0.13"/>
+	</dependencies>
+</ivy-module>
